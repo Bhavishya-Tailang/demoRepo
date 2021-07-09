@@ -9,6 +9,9 @@ generally
 	username, email is also configured
 	if it is created, get it on the local system from server
 		git clone REPO_URL
+	
+	to get the content/code from server to our local system
+		git pull origin BRANCH_NAME
 
 if not created:
 	git init - initialize a blank git project
