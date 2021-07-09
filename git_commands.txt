@@ -7,6 +7,8 @@ generally
 	repo is already created
 	origin url is also set
 	username, email is also configured
+	if it is created, get it on the local system from server
+		git clone REPO_URL
 
 if not created:
 	git init - initialize a blank git project
