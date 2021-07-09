@@ -1,0 +1,38 @@
+check if git is installed
+	git - will show all the available commands
+	git --version - will confirm git is installed and it will show the installed git version
+
+generally
+
+	repo is already created
+	origin url is also set
+	username, email is also configured
+
+if not created:
+	git init - initialize a blank git project
+	git status - to check if a repo is there or not
+
+	create a repo in github and copy the link of repo from there
+	link to the pc git repo
+		git remote add origin ORIGIN_URL
+	
+	stage files to commit
+	git add . or git add FILE_NAME or git add FOLDER_NAME or git add FILE1[_]FILE2 ....
+
+	commit files to push to server
+		git commit -m "MESSAGE_TO_PRINT"
+
+	push files to server
+		git push origin BRANCH_NAME
+
+
+command prompt commands
+	cd - change directory - either foldername to go inside a folder
+				or .. or ../..(combiantion) to go a level outside the folder
+				or cd DRIVE: to change the drive
+	ls or dir to check the contents of folder
+	
+
+
+
+	
