@@ -13,6 +13,11 @@ generally
 	to get the content/code from server to our local system
 		git pull origin BRANCH_NAME
 
+	creating feature branch
+		git branch BRANCH_NAME and then git checkout BRANCH_NAME
+		or
+		git checkout -b BRANCH_NAME
+
 if not created:
 	git init - initialize a blank git project
 	git status - to check if a repo is there or not
