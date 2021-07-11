@@ -17,6 +17,7 @@ generally
 		git branch BRANCH_NAME and then git checkout BRANCH_NAME
 		or
 		git checkout -b BRANCH_NAME
+		always note: which one is the parent branch using command - git branch.
 
 if not created:
 	git init - initialize a blank git project
