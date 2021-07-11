@@ -37,6 +37,14 @@ if not created:
 		git push origin BRANCH_NAME
 
 
+Conflicts:
+	to note:
+		always pull before starting work to avoid conflicts.
+		always pull before pushing to avoid conflicts.
+		if conflicts happen on pulling before push, stash the content using - git stash
+		pull content out of stash using - git stash apply / git stash pop
+
+
 command prompt commands
 	cd - change directory - either foldername to go inside a folder
 				or .. or ../..(combiantion) to go a level outside the folder
