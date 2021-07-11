@@ -35,6 +35,8 @@ if not created:
 
 	push files to server
 		git push origin BRANCH_NAME
+	
+	to sync with all the branches on origin use - git pull
 
 
 Conflicts:
@@ -49,6 +51,7 @@ command prompt commands
 	cd - change directory - either foldername to go inside a folder
 				or .. or ../..(combiantion) to go a level outside the folder
 				or cd DRIVE: to change the drive
+	mkdir - to create a new folder
 	ls or dir to check the contents of folder
 	
 
